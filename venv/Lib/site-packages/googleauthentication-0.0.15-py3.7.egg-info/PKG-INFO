@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: googleauthentication
+Version: 0.0.15
+Summary: A meta package to be connected to Google services
+Home-page: https://github.com/dacker-team/googleauthentication
+Author: Dacker
+Author-email: hello@dacker.co
+License: UNKNOWN
+Description: # googleauthentication
+        
+        This is googleauthentication
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
